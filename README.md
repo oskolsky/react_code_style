@@ -1,5 +1,7 @@
 # React/JSX Code Style
 
+*This project is originally forked from https://github.com/airbnb/javascript/tree/master/react.*
+
 *A mostly reasonable approach to React and JSX*
 
 ## Table of Contents
