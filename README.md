@@ -1,4 +1,4 @@
-# React/JSX Style Guide
+# React/JSX Code Style
 
 *A mostly reasonable approach to React and JSX*
 
